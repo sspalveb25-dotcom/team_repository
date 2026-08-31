@@ -1,2 +1,6 @@
 hello everyone!!!
+<<<<<<< Updated upstream
 sharwari here!!
+=======
+hello ritul is here.
+>>>>>>> Stashed changes
